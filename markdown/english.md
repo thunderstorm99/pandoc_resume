@@ -2,7 +2,7 @@ Eva Susanne Stinnesbeck
 ============
 
 ----
- 
+
 Education
 ---------
 
@@ -83,11 +83,12 @@ Experience
 Publications
 --------------------
 
-* **Stinnesbeck, Eva**; Wägele, J. Wolfgang; Herder, Fabian; Rust, Jes & Stinnesbeck, Wolfgang. (2021). A fish-parasitic isopod (Cymothoidae) on the pachyrhizodont *Goulmimichthys roberti* from the lower Turonian (Upper Cretaceous) Vallecillo plattenkalk, NE Mexico. Cretaceous Research. 129. 105019. 10.1016/j.cretres.2021.105019.
-* Vullo, Romain; Frey, Eberhard; Ifrim, Christina; González, Margarito; **Stinnesbeck, Eva** & Stinnesbeck, Wolfgang. (2021). Manta-like planktivorous sharks in Late Cretaceous oceans. Science. 371. 1253-1256. 10.1126/science.abc1490.
-* Gäb, Fabian; Ballhaus, Chris; **Stinnesbeck, Eva**; Kral, Anna; Janssen, Kathrin & Bierbaum, Gabriele. (2020). Experimental taphonomy of fish - role of elevated pressure, salinity and pH. Scientific Reports. 10. 10.1038/s41598-020-64651-8.
-* **Stinnesbeck, Eva**; Stinnesbeck, Wolfgang; Herder, Fabian & Rust, Jes. (2020). Taphonomy and paleobiology of the Late Cretaceous (Cenomanian-Turonian) pachyrhizodont *Goulmimichthys roberti* from Vallecillo and Múzquiz, northeastern Mexico. Palaeogeography, Palaeoclimatology, Palaeoecology. 543. 109607. 10.1016/j.palaeo.2020.109607.
-* **Stinnesbeck, Eva**; Rust, Jes & Herder, Fabian. (2019). Paleobiology and taphonomy of the pycnodont fish *Nursallia gutturosum*, based on material from the Latest-Cenomanian-middle Turonian Vallecillo platy limestone, Mexico. PalZ. 93. 10.1007/s12542-019-00461-2.
+* **Stinnesbeck, Eva**; Herder, Fabian; Rust, Jes & Stinnesbeck, Wolfgang (2023) Taphonomy of the teleost *Tselfatia formosa* Arambourg, 1943 from Vallecillo, NE Mexico. Plos One. In press.
+* **Stinnesbeck, Eva**; Wägele, J. Wolfgang; Herder, Fabian; Rust, Jes & Stinnesbeck, Wolfgang (2021) A fish-parasitic isopod (Cymothoidae) on the pachyrhizodont *Goulmimichthys roberti* from the lower Turonian (Upper Cretaceous) Vallecillo plattenkalk, NE Mexico. Cretaceous Research. 129. 105019. 10.1016/j.cretres.2021.105019.
+* Vullo, Romain; Frey, Eberhard; Ifrim, Christina; González, Margarito; **Stinnesbeck, Eva** & Stinnesbeck, Wolfgang (2021) Manta-like planktivorous sharks in Late Cretaceous oceans. Science. 371. 1253-1256. 10.1126/science.abc1490.
+* Gäb, Fabian; Ballhaus, Chris; **Stinnesbeck, Eva**; Kral, Anna; Janssen, Kathrin & Bierbaum, Gabriele (2020) Experimental taphonomy of fish - role of elevated pressure, salinity and pH. Scientific Reports. 10. 10.1038/s41598-020-64651-8.
+* **Stinnesbeck, Eva**; Stinnesbeck, Wolfgang; Herder, Fabian & Rust, Jes (2020) Taphonomy and paleobiology of the Late Cretaceous (Cenomanian-Turonian) pachyrhizodont *Goulmimichthys roberti* from Vallecillo and Múzquiz, northeastern Mexico. Palaeogeography, Palaeoclimatology, Palaeoecology. 543. 109607. 10.1016/j.palaeo.2020.109607.
+* **Stinnesbeck, Eva**; Rust, Jes & Herder, Fabian (2019) Paleobiology and taphonomy of the pycnodont fish *Nursallia gutturosum*, based on material from the Latest-Cenomanian-middle Turonian Vallecillo platy limestone, Mexico. PalZ. 93. 10.1007/s12542-019-00461-2.
 
 \pagebreak
 
@@ -117,6 +118,27 @@ Awards
 * 2018/19 DAAD (German Academic Exchange Service) Scholarship for PhD Students (No. 57381316)
 * 2017 Rüdiger-Riehl award, 1st place for the best student contribution (German Ichthyological Society)
 
+Voluntary work
+--------------------
+
+2022
+:   **Museo de Vallecillo**\
+    Monterrey, Mexiko
+
+    * Scientific advisory on exhibition topics
+    * Selection of fossils for exhibition
+
+2018
+:   **Museo del Desierto**\
+    Saltillo, Mexiko
+
+    * Management of the palaeontological collection
+
+2018-01-15 -- 2018-01-16
+:   **City University of Applied Sciences (Hochschule Bremen)**\
+    Bremen, Germany
+
+    * Presentation of master's thesis for orientation and study assistance of bachelor's students
 
 Languages
 ----------------------------------------
@@ -128,4 +150,4 @@ Languages
 ----
 
 > <susistinnesbeck@gmail.com> • +49 1577 473 99 79\
-> Schlossstrasse 49, 53840 Troisdorf, Germany
+> Hinter Hoben 145, 53129 Bonn, Germany
