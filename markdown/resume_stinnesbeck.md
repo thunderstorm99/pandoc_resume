@@ -89,4 +89,4 @@ Languages
 ----
 
 > <nils@stinnesbeck.com> • +49 171 656 23 65\
-> Schlossstrasse 49, 53840 Troisdorf, Germany
+> Hinter Hoben 145, 53129 Bonn, Germany
