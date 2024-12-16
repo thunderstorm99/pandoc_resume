@@ -3,12 +3,32 @@ Nils Stinnesbeck
 
 ----
  
-> System Engineer, with a passion for automation and containerization, using Linux for over a decade.
+> Senior Software Engineer, with a passion for automation, Golang and containerization.
  
 ----
 
 Experience
 ----------
+
+10/2023 -- now
+:  **Senior Software Engineer**; plusserver GmbH, Cologne, Germany
+
+* Development of various API clients for internal tools in Go
+* Development of internal REST APIs for billing, monitoring and general data exchange in Go
+* Maintenance of VM template generation for customers using HashiCorp Packer
+* Automation of firewalls using Ansible
+* Development of automatic deployment pipelines using Terraform, Ansible, k8s and GitLab CI/CD
+* Development of a native Go orchestration platform for VMware Cloud Director
+* Mentor for Software Development
+
+03/2023 -- 09/2023
+:  **Senior DevOps Engineer**; plusserver GmbH, Cologne, Germany
+
+* Development of an interactive tool to migrate customer workloads from VMware NSX-V to NSX-T backed clouds in Go
+* Automation of VMware Cloud Director platform and related tooling
+* Development of deployment workflows in VMware Orchestrator (Python, Javascript)
+* Migration of existing workload to internal k8s cluster
+* Automation of certificate generation for internal services running in k8s using Traefik and cert-manager
 
 10/2022 -- 12/2022
 :  **System Engineer**; Orange Business Services, Berlin, Germany
@@ -39,6 +59,7 @@ Experience
 * Automation of reccurring tasks (Ansible, Drone CI, Golang, Powershell)
 * Design, build and document IT infrastructure (Racks, Switches, NAS, SAN, Servers)
 
+<!---
 04/2018 -- 12/2018
 :   **Student Employee**; TST GmbH, Troisdorf, Germany
 
@@ -52,6 +73,7 @@ Experience
 * Development of modules for scheduled mass-deployments of Linux/Windows machines for Hive
 * Creation and maintenance of virtual machines for deployment tests
 * Bachelor-Thesis project
+--->
 
 \pagebreak
 
@@ -69,15 +91,15 @@ University of Applied Sciences Bonn-Rhein-Sieg, Sankt Augustin, Germany
 Skills
 --------------------
 
+* Automation: Ansible, GitLab CI/CD, Nix, Terraform, Terragrunt
+* Containerization: Docker, LXC, Kubernetes, K3s
+* Programming Languages: Go, Powershell, Javascript, Python
+* Virtualization: VMware, Proxmox, KVM, Xen, HyperV
 * Solid expertise in Linux (Arch, CentOS/RHEL/Fedora, Debian/Ubuntu)
 * Firm understanding of networks (DHCP, DNS, VLANs, Firewalls, Routing, Switches)
 * Passionate about acquiring new skills
 * Critical thinking, analytical mind
-* Automation: Ansible, Terraform, Terragrunt, Argo CD, Concourse
-* Containerization: Docker, LXC, Kubernetes, K3s
-* Programming Languages: Go, Powershell, Bash, Python
 * Documentation: Markdown, Confluence, NetBox
-* Virtualization: VMware, Proxmox, KVM, Xen, HyperV
 
 Languages
 ----------------------------------------
@@ -89,4 +111,4 @@ Languages
 ----
 
 > <nils@stinnesbeck.com> • +49 171 656 23 65\
-> Hinter Hoben 145, 53129 Bonn, Germany
+> Am Süßen Bäumchen 35a, 53894 Mechernich, Germany
